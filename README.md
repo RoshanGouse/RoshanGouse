@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RoshanGouse
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning web development,c++,java,python languages
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :-roshangouse1@gmail.com
 
 <!---
